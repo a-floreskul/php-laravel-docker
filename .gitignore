@@ -9,3 +9,12 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/.idea/codeception.xml
+/.idea/.gitignore
+/storage/logs/laravel-2025-05-19.log
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/php-laravel-docker.iml
+/.idea/phpspec.xml
+/.idea/phpunit.xml
+/.idea/vcs.xml
